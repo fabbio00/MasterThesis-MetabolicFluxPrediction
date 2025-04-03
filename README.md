@@ -9,7 +9,7 @@ The goal of this work was to develop a graph-based deep learning approach to est
 
 - `abstract.pdf`: One-page summary of the thesis
 - `summary.pdf`: A more detailed overview
-- `slides.pdf`: Thesis defense slides
+- `slides.pdf`: Thesis defense slides with results images
 
 ## 🚧 Note
 
