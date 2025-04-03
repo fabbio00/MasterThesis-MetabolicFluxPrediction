@@ -18,7 +18,7 @@ This repository contains only public content. The full code and implementation r
 
 ## 🧑‍💻 Author
 
-Fabio [@fabbio00](https://github.com/fabbio00)
+Fabio Marini [@fabbio00](https://github.com/fabbio00)
 
 ## 📅 Date
 
